@@ -1,0 +1,32 @@
+
+.foodListContainer {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.foodListContainer h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.foodListContainer table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+.foodListContainer table th {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px;
+}
+
+.foodListContainer table td {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: center;
+}
+
+.foodListContainer table tr:nth-child(even) {
+    background-color: #f9f9f9;
+}

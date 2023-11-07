@@ -1,0 +1,40 @@
+
+.foodFormContainer {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+
+.foodFormContainer h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.foodFormContainer label {
+    display: block;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+.foodFormContainer input {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.foodFormContainer button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin-top: 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}

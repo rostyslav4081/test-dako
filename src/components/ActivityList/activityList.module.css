@@ -1,0 +1,32 @@
+
+.activityListContainer {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.activityListContainer h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.activityListContainer table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+.activityListContainer table th {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px;
+}
+
+.activityListContainer table td {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: center;
+}
+
+.activityListContainer table tr:nth-child(even) {
+    background-color: #f9f9f9;
+}

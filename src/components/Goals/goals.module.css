@@ -1,0 +1,46 @@
+
+.goalsContainer {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.goalsContainer h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.goalsContainer form {
+    display: flex;
+    flex-direction: column;
+}
+
+.goalsContainer label {
+    margin-bottom: 10px;
+}
+
+.goalsContainer input {
+    padding: 5px;
+    margin-bottom: 20px;
+}
+
+.goalsContainer button {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+    width: 160px;
+    margin-left: 220px;
+}
+
+.goalsContainer button:hover {
+    background-color: #0056b3;
+}
+.row {
+    display: flex;
+    justify-content: space-between;
+}
+.center {
+    display: flex;
+    justify-content: space-around;
+}
